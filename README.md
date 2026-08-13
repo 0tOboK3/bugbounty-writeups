@@ -5,7 +5,24 @@ Public writeups of my bug bounty work across web application security and smart 
 Each writeup covers methodology, payloads, severity reasoning, and lessons learned.
 Some of these were rewarded; others were valid findings that arrived as duplicates — both are equally worth documenting.
 
-> **Note:** All writeups are published after the programs have had reasonable time to remediate. No real user data, credentials, or internal assets are included. Account references use researcher-controlled test accounts only.
+> **Disclosure note:** A submission is published here only after public
+> disclosure is explicitly permitted by the program or customer. Submission,
+> triage, remediation, closure, or the passage of time do not by themselves
+> grant permission to disclose. No real-user data, credentials, private
+> evidence, or internal assets are included. See [DISCLOSURE.md](DISCLOSURE.md).
+
+## Publication coverage
+
+This repository is a public portfolio, not the complete private submission
+ledger. An audit on 2026-08-13 identified at least **30 additional submission
+records / 29 unique findings** that are intentionally withheld while they are
+active, embargoed, explicitly non-disclosable, or missing written disclosure
+authorization. Their detailed inventory remains local and is not committed to
+GitHub.
+
+This separation keeps the public writeups current without turning `New`,
+`Triaged`, `Resolved`, or `Not applicable` reports into unauthorized public
+disclosures.
 
 ---
 

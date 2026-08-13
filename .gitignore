@@ -1,0 +1,4 @@
+# Private submission ledgers and embargoed drafts must never enter this public repo.
+private/
+PRIVATE_*
+*.private.md
